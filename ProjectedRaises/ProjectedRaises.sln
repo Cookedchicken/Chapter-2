@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectedRaises", "ProjectedRaises\ProjectedRaises.csproj", "{E471726C-1DE7-4452-AE96-D6FFCA322889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E471726C-1DE7-4452-AE96-D6FFCA322889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E471726C-1DE7-4452-AE96-D6FFCA322889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E471726C-1DE7-4452-AE96-D6FFCA322889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E471726C-1DE7-4452-AE96-D6FFCA322889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {665FBC5B-EEA8-429C-B8D6-70E0B0C8DC4A}
+	EndGlobalSection
+EndGlobal
